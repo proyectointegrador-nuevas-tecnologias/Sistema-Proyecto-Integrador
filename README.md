@@ -2,8 +2,6 @@
 
 ##  Integrantes del Equipo
 - **Emanuel Restrepo Ceballos** 
-- **[Nombre Integrante 2]** 
-- **[Nombre Integrante 3]** 
 
 ---
 
