@@ -1,7 +1,9 @@
 # Sistema-Proyecto-Integrador
 
 ##  Integrantes del Equipo
-- **Emanuel Restrepo Ceballos** 
+- **Emanuel Restrepo Ceballos**
+- **Juan Alberto Zuluaga**
+- **Erica Marcela Avendaño**
 
 ---
 
